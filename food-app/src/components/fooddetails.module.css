@@ -1,0 +1,36 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.details {
+  margin-top: 20px;
+  line-height: 1.6;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+}
+
+.section ul,
+.section ol {
+  padding-left: 20px;
+}
